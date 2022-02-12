@@ -5,7 +5,7 @@
 </h1>
 <br>
 
-- 🤖 *AI Enthusiast*
+- 🤖 * DATA SCIENCE *
 - 🚀 *Currently working on PYTHON*
 - 👨‍💻 *Ask me about Web development*
 - 🤝 *Looking forward to collaborate on Open source projects*
@@ -17,9 +17,9 @@
 
 <!-- streak and trophies -->
 <p align="center">
-  <img height="150" width="150" src="Webp/left (1).jpg">
+  <img height="150" width="150" src="Webp/right.png">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Bhatt&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src=Webp/left.jpg>
+  <img height="150" width="150" src="Webp/right (1).png">
 </p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pawan-Bhatt&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Pawan-Bhatt)
