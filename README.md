@@ -18,7 +18,7 @@
 <!-- streak and trophies -->
 <p align="center">
   <img height="150" width="150" src="Webp/right.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Bhatt&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Bhatt&theme=Gotham&hide_border=true"/>
   <img height="150" width="150" src="Webp/right (1).png">
 </p>
 
