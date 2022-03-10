@@ -78,22 +78,22 @@
 
 <p align="center">
   <br>
-  <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
+  <a href="https://www.youtube.com" target="_blank">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
   </a>
-  <a href="https://gmail.com/sagar.0dev/" target="_blank">
+  <a href="https://gmail.com/" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
-  <a href="https://twitter.com/sagar0_o" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
   </a>
-  <a href="https://www.linkedin.com/in/sagar-malhotra7015/">
+  <a href="https://www.linkedin.com/in/">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
   </a>
-  <a href="https://dev.to/sagar0_0">
+  <a href="https://dev.to/">
     <code><img height="50" width="50" src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg"></code>
   </a>
-  <a href="https://www.instagram.com/_sagar_malhotra_/" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
   </a>
 </p>
@@ -104,21 +104,21 @@
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/></code>
   </a>
 
-  <a href="https://www.interviewbit.com/profile/sagar0_0" target="_blank">
+  <a href="https://www.interviewbit.com/profile/" target="_blank">
     <code><img height="50" width="50" src="https://i0.wp.com/blog.interviewbit.com/wp-content/uploads/2017/11/cropped-logo-transparent.png?fit=240%2C169&ssl=1"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/sagar0_0" target="_blank">
+  <a href="https://www.codechef.com/users" target="_blank">
     <code><img height="50" width="50" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
   </a>
   
-  <a href="https://leetcode.com/sagar0_0/" target="_blank">
+  <a href="https://leetcode.com//" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></code>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/0sagar0/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png"/></code>
   </a>
-  <a href="https://stackoverflow.com/users/16775065/sagar-malhotra" target="_blank">
+  <a href="https://stackoverflow.com/users/16775065" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/></code>
   </a>
 </p>
