@@ -88,7 +88,7 @@
   <a href="https://twitter.com/" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/pawan-bhatt-17821716b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BViUntV7oT8Guy3iwu1L8sQ%3D%3D">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
   </a>
   <a href="https://dev.to/">
