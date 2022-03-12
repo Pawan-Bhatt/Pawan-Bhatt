@@ -31,20 +31,23 @@
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="Webp/200.webp">
 <br/>
 
-<h3>𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒</h3>
+<h3 align = "center">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒</h3>
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-#
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<p align = "center">
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<br/>
+<br/>
+<code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>&nbsp;
+<code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="60" width="60" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+ </p>
 
 <br/>
 <br/>
@@ -54,24 +57,23 @@
 
 <!-- github stats and graph -->
 <h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+<img height="30"src="Webp/200w.webp"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="Webp/200w.webp">
 </h1>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Bhatt
-&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Bhatt&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Bhatt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Bhatt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pawan-Bhatt&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![Pawan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pawan-Bhatt&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 <hr>
 
 <!-- connect section -->
 <h1 align="center">
 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="Webp/upload.webp" width="24px">
-<img src= "GIF/the-matrix-has-you.gif" height="270px" width="370px" align="right">
+<img src= "Webp/giphy360p.gif" height="270px" width="370px" align="right">
 </h1>
 
 <p align="center">
