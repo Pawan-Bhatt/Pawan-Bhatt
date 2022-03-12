@@ -82,7 +82,7 @@
   <a href="https://www.youtube.com" target="_blank">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
   </a>
-  <a href="https://gmail.com/" target="_blank">
+  <a href="https://2027285pawan@gmail.com/" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
   <a href="https://twitter.com/" target="_blank">
@@ -113,10 +113,10 @@
     <code><img height="50" width="50" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
   </a>
   
-  <a href="https://leetcode.com//" target="_blank">
+  <a href="https://leetcode.com/Pawan_Bhatt/" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></code>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/2027285pawan" target="_blank">
     <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png"/></code>
   </a>
   <a href="https://stackoverflow.com/users/16775065" target="_blank">
