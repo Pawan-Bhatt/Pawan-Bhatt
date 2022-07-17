@@ -7,7 +7,7 @@
 
 - 🤖 * DATA SCIENCE *
 - 🚀 *Currently working on PYTHON*
-- 👨‍💻 *Ask me about Web development*
+- 👨‍💻 *Ask me about Web Scraping*
 - 🤝 *Looking forward to collaborate on Open source projects*
 - 💬 *Feel free to reach me out for any help*
 - ⚡ *Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation*
