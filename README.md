@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Pawan</h1>
-         <h4 align= "center">A 4rd-year student pursuing BTech in Computer science studies with a specialization of AIML, from CGC Jhanjeri. </h4>
+         <h4 align= "center">A 4th-year student pursuing BTech in Computer science studies with a specialization of AIML, from CGC Jhanjeri. </h4>
 <!-- intro hello world -->
 <h1 align="center">
  <img src="Webp/new.webp" width="40px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="Webp/new.webp" width="40px">
