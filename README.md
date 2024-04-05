@@ -76,6 +76,16 @@
 
 <!-- connect section -->
 <h1 align="center">
+         <br>
+<h2 align="center"> LeetCode Status Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/Pawan_Bhatt/" target="_blank">
+    <img width=60%h height=80% src="https://leetcode.card.workers.dev/?username=Pawan_Bhatt&theme=dark&font=source_code_pro&border_radius=10"/>
+           https://leetcode.com/Pawan_Bhatt/
+  </a>
+
+<br>
+<br>
 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="Webp/upload.webp" width="24px">
 <img src= "Webp/giphy360p.gif" height="270px" width="370px" align="right">
 </h1>
