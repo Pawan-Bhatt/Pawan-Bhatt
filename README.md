@@ -10,12 +10,12 @@
 </h1>
 <br>
 
-- 🤖 * DATA SCIENCE *
+- 🤖 * Machine Learning *
 - 🚀 *Currently working on PYTHON*
 - 👨‍💻 *Ask me about Web Scraping*
 - 🤝 *Looking forward to collaborate on Open source projects*
 - 💬 *Feel free to reach me out for any help*
-- ⚡ *Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation*
+- ⚡ *Software development is a journey. Every bug fixed is a lesson learned.
 <br>
 
 <hr>
@@ -70,23 +70,22 @@
     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Bhatt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Pawan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pawan-Bhatt&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+
 
 <hr>
 
 <!-- connect section -->
 <h1 align="center">
          <br>
-<h2 align="center"> LeetCode Status Card </h2>
+<h2 align="center">𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚 𝙎𝙩𝙖𝙩𝙪𝙨 𝘾𝙖𝙧𝙙 </h2>
 <p align="center">
   <a href="https://leetcode.com/Pawan_Bhatt/" target="_blank">
-    <img width=60%h height=80% src="https://leetcode.card.workers.dev/?username=Pawan_Bhatt&theme=dark&font=source_code_pro&border_radius=10"/>
-           https://leetcode.com/Pawan_Bhatt/
+    <img width=60%h height=80% src="https://leetcode.card.workers.dev/?username=Pawan_Bhatt&theme=dark&font=source_code_pro&border_radius=10"
   </a>
 
 <br>
 <br>
-𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="Webp/upload.webp" width="24px">
+<h2  align="center">𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="Webp/upload.webp" width="24px"></h2>
 <img src= "Webp/giphy360p.gif" height="270px" width="370px" align="right">
 </h1>
 
@@ -143,6 +142,11 @@
 
 <!-- outro -->
 <div align="center">
+
+<p align="center">
+<img alt="Snake GIF" src="https://github.com/Pawan-Bhatt/Pawan-Bhatt/blob/main/github-contribution-grid-snake.svg">
+</p>
+
   
   ![Visitor Count](https://profile-counter.glitch.me/{Pawan-Bhatt}/count.svg)
   
