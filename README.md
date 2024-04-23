@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Pawan</h1>
-         <h4 align= "center">A 4th-year student pursuing BTech in Computer science studies with a specialization of AIML, from CGC Jhanjeri. </h4>
+         <h4 align= "center">I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering (Artificial Intelligence & Machine Learning), and I thrive on expanding my expertise in various domains. </h4>
 <!-- intro hello world -->
 <h1 align="center">
  <img src="Webp/new.webp" width="40px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="Webp/new.webp" width="40px">
@@ -10,12 +10,13 @@
 </h1>
 <br>
 
-- 🤖 * Machine Learning *
-- 🚀 *Currently working on PYTHON*
+- 🤖 *Machine Learning*
+- 🚀 *Artificial Intelligence*
 - 👨‍💻 *Ask me about Web Scraping*
 - 🤝 *Looking forward to collaborate on Open source projects*
 - 💬 *Feel free to reach me out for any help*
 - ⚡ *Software development is a journey. Every bug fixed is a lesson learned.
+  
 <br>
 
 <hr>
